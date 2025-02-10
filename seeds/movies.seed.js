@@ -1,3 +1,5 @@
+ 
+
 const movies = [
     {
       title: "A Wrinkle in Time",
@@ -83,7 +85,7 @@ const movies = [
 
 
 // Add here the script that will be run to actually seed the database (feel free to refer to the previous lesson)
+module.exports = movies;
 
-  
 
 // ... your code here
